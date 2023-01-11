@@ -1,0 +1,4 @@
+C:\Users\User\Desktop\parallel-programming-MPI-master\parallel-programming-MPI-master\x64\Debug\mpi.exe
+C:\Users\User\Desktop\parallel-programming-MPI-master\parallel-programming-MPI-master\x64\Debug\mpi.pdb
+C:\Users\User\source\repos\MPI\x64\Debug\mpi.exe
+C:\Users\User\source\repos\MPI\x64\Debug\mpi.pdb
